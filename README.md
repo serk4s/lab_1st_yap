@@ -1,2 +1,1 @@
-# lab_1st_yap
-# lab_1st_yap
+1 лаба по япе на javascript
